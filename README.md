@@ -9,14 +9,6 @@ Sou um desenvolvedor e web designer, apaixonado por criar soluções eficientes 
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
-- Linguagens: **JavaScript**, **HTML**, **CSS**
-- Frameworks e Bibliotecas: **React**, **Vue.js**, **Node.js**
-- Design: **Figma**, **Adobe XD**, **Material Design Icons**
-- Outros: **Git**, **Docker**, **MySQL**, **MongoDB**
-
----
-
 ### 📈 Meus Objetivos
 - Me tornar um desenvolvedor **Full-Stack** altamente capacitado  
 - Colaborar em projetos inovadores e desafiadores  
