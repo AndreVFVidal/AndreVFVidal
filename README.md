@@ -17,5 +17,3 @@ Sou um desenvolvedor e web designer, apaixonado por criar soluções eficientes 
 ---
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em projetos. 🚀
-
-https://github.com/Platane/snk.git
