@@ -6,3 +6,8 @@
 
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em projetos. 🚀
+
+  ![Snake animation](https://raw.githubusercontent.com/anopszetex/anopszetex/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
