@@ -1,4 +1,4 @@
-# 💻 Bem-vindo ao meu GitHub!
+# 💻 Olá, me chamo André Vidal!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🎨 **UX/UI Design**
