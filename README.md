@@ -22,6 +22,3 @@
 </div>
 
 ---
-
-(https://raw.githubusercontent.com/AndreVFVidal/AndreVFVidal/output/github-contribution-grid-snake.svg)
-
