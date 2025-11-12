@@ -23,4 +23,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/anopszetex/anopszetex/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AndreVFVidal/AndreVFVidal/output/github-contribution-grid-snake.svg)
