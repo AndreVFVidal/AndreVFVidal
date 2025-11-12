@@ -23,5 +23,5 @@
 
 ---
 
-https://raw.githubusercontent.com/AndreVFVidal/AndreVFVidal/output/github-contribution-grid-snake.svg
+(https://raw.githubusercontent.com/AndreVFVidal/AndreVFVidal/output/github-contribution-grid-snake.svg)
 
